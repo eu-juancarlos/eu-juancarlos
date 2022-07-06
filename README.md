@@ -1,6 +1,5 @@
 ### Olaá! Eu sou o Juan Carlos
 
-- 🔭 I’m currently avançando em javaScript
 - 📫 How to reach me: juancarlosdev1@gmail.com
 
 <div align="center">
@@ -14,7 +13,6 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
 </div>
   
   ##

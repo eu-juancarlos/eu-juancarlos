@@ -1,4 +1,4 @@
-### Olaá! Eu sou o Juan Carlos
+### Olaá! Eu sou o Juan Carlos, estudante de programação com foco em desenvolvimento web fullstack!
 
 - 📫 How to reach me: juancarlosdev1@gmail.com
 
